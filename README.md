@@ -76,4 +76,4 @@ various events for members and society.
     - 서비스3 : 일반가점제도의 가점제를 계산기형식으로 제공
 - [PDF](https://github.com/JungBear/project/blob/main/subscoription_chatbot/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_PPT.pdf)
 - [Demo Video](https://www.youtube.com/watch?v=b3-sZf48M7U)
-- [Main Chord](https://github.com/JungBear/project/blob/main/subscoription_chatbot/app/main.py)
+- [Main Chord](https://github.com/bryancha-ui/project/blob/main/subscoription_chatbot/app/main.py)
