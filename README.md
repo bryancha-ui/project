@@ -59,7 +59,16 @@ various events for members and society.
 
 
  ## Project
- 1. Apartment application Chatbot Project
+ 
+ 1. Demand prediction project for Flamingo clients 
+ -folder name : [Performance Diagnosis Project](https://github.com/bryancha-ui/Performance-Diagnosis-Project)
+ -time frame: September 1st 2021 ~ october 2nd 2021 
+ - Company: Flamingo inc.
+ - Language:  ```Python```
+ - Tools: Google Colab
+ - Explanation of project
+    -Using 
+ 2. Apartment application Chatbot Project
 - folder name : [subscoripition_chatbot](https://github.com/JungBear/project/tree/main/subscoription_chatbot)
 - time frame : August 19th 2022~ September 2nd 2022
 - Members : Hyung Ju Cha and other 3 members
