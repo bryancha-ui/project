@@ -69,7 +69,7 @@ various events for members and society.
  - Explanation of project
     -Using 
  2. Apartment application Chatbot Project
-- folder name : [subscoripition_chatbot]https://github.com/bryancha-ui/Subscription_chatbot)
+- folder name : [subscoripition_chatbot](https://github.com/bryancha-ui/Subscription_chatbot)
 - time frame : August 19th 2022~ September 2nd 2022
 - Members : Hyung Ju Cha and other 3 members
 - Language : ```Python```
@@ -83,6 +83,6 @@ various events for members and society.
     - 서비스1 : 수도권 내의 본인이 알고싶은 지역의 이름을 검색하면 해당지역의 현재 기간에 해당하는 공고 출력(지역은 시,군단위)
     - 서비스2 : 청약의 정보를 유형별로 자체 제작한 간략한 카드와 URL형식으로 제공
     - 서비스3 : 일반가점제도의 가점제를 계산기형식으로 제공
-- [PDF]https://github.com/bryancha-ui/Subscription_chatbot/blob/main/subscoription_chatbot/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_PPT.pdf)
+- [PDF](https://github.com/bryancha-ui/Subscription_chatbot/blob/main/subscoription_chatbot/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_PPT.pdf)
 - [Demo Video](https://github.com/bryancha-ui/Subscription_chatbot/blob/main/subscoription_chatbot/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
 - [Main Code](https://github.com/bryancha-ui/Subscription_chatbot/tree/main/subscoription_chatbot/app)
