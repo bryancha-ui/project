@@ -60,7 +60,7 @@ various events for members and society.
 
  ## Project
  
- 1. Demand prediction project for Flamingo clients 
+ 1. Performance Diagnosis project for Flamingo clients 
  -folder name : [Performance Diagnosis Project](https://github.com/bryancha-ui/Performance-Diagnosis-Project)
  -time frame: September 1st 2021 ~ october 2nd 2021 
  - Company: Flamingo inc.
