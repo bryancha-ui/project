@@ -64,21 +64,24 @@ various events for members and society.
  1. Hackathon project:Developing Resell app using Blockchain 
  - folder name : [Hackathon-revendor](https://github.com/bryancha-ui/Hackathon-Revendor)
 - time frame : August 10th 2021~ August 28th 2021
-- Members : Hyung Ju Cha and other 3 members
+- Members : Hyung Ju Cha and other 4 members
 - Language : ```Python```, ```Java```, ```Javascript```, ```HTML```, ```CSS```
 - Tools : ```Google colab```
 - Framework : ```Springboot```, ```Vue```, ```Solidity```
 - DBMS : ```MySQL```
 - library : ```Pandas```,```Selenium``` , etc..
 - Explanation of project 
--
+- In this project, I developed a resell app that enables purchases of luxury goods with the blockchain system. The app was called Revendor. 
+- In this project, I participated in creating raw data by crawling resell websites and managed the data through Mysql. I also participated in the backend developing process using Java and Springboot. 
  
  2. Performance Diagnosis project for Flamingo clients 
  -folder name : [Performance Diagnosis Project](https://github.com/bryancha-ui/Performance-Diagnosis-Project)
  -time frame: September 1st 2021 ~ october 2nd 2021 
  - Company: Flamingo inc.
  - Language:  ```Python```
- - Tools: Google Colab
+ - Tools: ```Google Colab```
+ - Framework: ```Tensorflow``
+ - library:
  - Explanation of project
     -Using 
     
