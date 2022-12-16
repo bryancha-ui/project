@@ -61,8 +61,17 @@ various events for members and society.
  ## Project
  
  
- 1. Developing Resell app using Blockchain 
- -
+ 1. Hackathon project:Developing Resell app using Blockchain 
+ - folder name : [Hackathon-revendor](https://github.com/bryancha-ui/Hackathon-Revendor)
+- time frame : August 10th 2021~ August 28th 2021
+- Members : Hyung Ju Cha and other 3 members
+- Language : ```Python```, ```Java```, ```Javascript```, ```HTML```, ```CSS```
+- Tools : ```Google colab```
+- Framework : ```Springboot```, ```Vue```, ```Solidity```
+- DBMS : ```MySQL```
+- library : ```Pandas```,```Selenium``` , etc..
+- Explanation of project 
+-
  
  2. Performance Diagnosis project for Flamingo clients 
  -folder name : [Performance Diagnosis Project](https://github.com/bryancha-ui/Performance-Diagnosis-Project)
