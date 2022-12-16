@@ -60,7 +60,11 @@ various events for members and society.
 
  ## Project
  
- 1. Performance Diagnosis project for Flamingo clients 
+ 
+ 1. Developing Resell app using Blockchain 
+ -
+ 
+ 2. Performance Diagnosis project for Flamingo clients 
  -folder name : [Performance Diagnosis Project](https://github.com/bryancha-ui/Performance-Diagnosis-Project)
  -time frame: September 1st 2021 ~ october 2nd 2021 
  - Company: Flamingo inc.
@@ -68,7 +72,17 @@ various events for members and society.
  - Tools: Google Colab
  - Explanation of project
     -Using 
- 2. Apartment application Chatbot Project
+    
+ 3. AI Home Training Application Project 
+ 
+ 
+ 4. Stock prediction project 
+ -folder name :
+ -time frame: February 1st 2022 ~ March 3rd 2022 
+ - School: Indiana University Bloomington
+ 
+ 
+ 5. Apartment application Chatbot Project
 - folder name : [subscoripition_chatbot](https://github.com/bryancha-ui/Subscription_chatbot)
 - time frame : August 19th 2022~ September 2nd 2022
 - Members : Hyung Ju Cha and other 3 members
@@ -86,3 +100,14 @@ various events for members and society.
 - [PDF](https://github.com/bryancha-ui/Subscription_chatbot/blob/main/subscoription_chatbot/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_PPT.pdf)
 - [Demo Video](https://github.com/bryancha-ui/Subscription_chatbot/blob/main/subscoription_chatbot/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
 - [Main Code](https://github.com/bryancha-ui/Subscription_chatbot/tree/main/subscoription_chatbot/app)
+
+ 6. Yongin app charger project 
+ - folder name : [Yongin_charger](https://github.com/bryancha-ui/Yonginchargerproject)
+- time frame : October 2nd 2022~ November 2nd 2022
+- Members : Hyung Ju Cha and other 3 members
+- Language : ```Python```
+- Tools : ```Google Colab```
+- Framework : ```Flask```
+- DBMS : ```PostgreSQL```
+- library : ```Pandas```,```Psycopg2``` , etc..
+- Explanation of project 
