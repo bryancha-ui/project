@@ -100,7 +100,7 @@ various events for members and society.
  - School: Indiana University Bloomington
  
  
- 5. Apartment application Chatbot Project
+ 4. Apartment application Chatbot Project
 - folder name : [subscoripition_chatbot](https://github.com/bryancha-ui/Subscription_chatbot)
 - time frame : August 19th 2022~ September 2nd 2022
 - Members : Hyung Ju Cha and other 3 members
@@ -119,7 +119,7 @@ various events for members and society.
 - [Demo Video](https://github.com/bryancha-ui/Subscription_chatbot/blob/main/subscoription_chatbot/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
 - [Main Code](https://github.com/bryancha-ui/Subscription_chatbot/tree/main/subscoription_chatbot/app)
 
- 6. Yongin app charger project 
+ 5. Yongin app charger project 
  - folder name : [Yongin_charger](https://github.com/bryancha-ui/Yonginchargerproject)
 - time frame : October 2nd 2022~ November 2nd 2022
 - Members : Hyung Ju Cha and other 3 members
