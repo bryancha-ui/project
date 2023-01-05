@@ -86,16 +86,14 @@ various events for members and society.
     -Using 
     
  3. AI Home Training Application Project 
- folder name : [AI_Hometraining](https://github.com/bryancha-ui/Subscription_chatbot)
+ folder name : [AI_Hometraining](hhttps://github.com/bryancha-ui/AI_Hometraining)
 - time frame : October 3rd 2021~ november 3rd 2021
 - Language : ```Python```
-- Tools : 
-- Framework : 
-- DBMS : 
-- Platform : 
-- library : 
+- Tools : ```pickle```
+- Platform : ```jupyterhub```
+- library :  ```Mediapipe```, ```numpy```
 - Explanation of project 
- 
+ -in this project, I used a 
  4. Stock prediction project 
  -folder name :
  -time frame: February 1st 2022 ~ March 3rd 2022 
