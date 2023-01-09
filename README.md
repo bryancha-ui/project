@@ -80,7 +80,7 @@ various events for members and society.
  - Company: Flamingo inc.
  - Language:  ```Python```
  - Tools: ```Google Colab```
- - Framework: ```Tensorflow``
+ - Framework: ```Tensorflow``, 
  - library:
  - Explanation of project
     -Using 
