@@ -99,8 +99,19 @@ various events for members and society.
  -time frame: February 1st 2022 ~ March 3rd 2022 
  - School: Indiana University Bloomington
  
+ 4.Stock price prediction project
+  -folder name : [Performance Diagnosis Project](https://github.com/bryancha-ui/Performance-Diagnosis-Project)
+ -time frame: September 1st 2021 ~ october 2nd 2021 
+ - Company: Flamingo inc.
+ - Language:  ```Python```
+ - Tools: ```Google Colab```
+ - Framework: ```Tensorflow``
+ - library:
+ - Explanation of project
+    -Using 
  
- 4. Apartment application Chatbot Project
+ 
+ 5. Apartment application Chatbot Project
 - folder name : [subscoripition_chatbot](https://github.com/bryancha-ui/Subscription_chatbot)
 - time frame : August 19th 2022~ September 2nd 2022
 - Members : Hyung Ju Cha and other 3 members
@@ -119,7 +130,7 @@ various events for members and society.
 - [Demo Video](https://github.com/bryancha-ui/Subscription_chatbot/blob/main/subscoription_chatbot/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
 - [Main Code](https://github.com/bryancha-ui/Subscription_chatbot/tree/main/subscoription_chatbot/app)
 
- 5. Yongin app charger project 
+ 6. Yongin app charger project 
  - folder name : [Yongin_charger](https://github.com/bryancha-ui/Yonginchargerproject)
 - time frame : October 2nd 2022~ November 2nd 2022
 - Members : Hyung Ju Cha and other 3 members
